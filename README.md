@@ -1,3 +1,5 @@
+To view my project proposal, click here. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/emmaloool/15400-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -22,6 +24,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
